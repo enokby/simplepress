@@ -1,4 +1,4 @@
 simplepress
 ===========
 
-Un CMS très simple en php pour le site web de votre entraprise.
+Un CMS très simple en php pour le site web de votre entreprise.
